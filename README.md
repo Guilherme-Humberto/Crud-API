@@ -1,7 +1,7 @@
 # Crud-API-MongoDB
 
 ## Introdução
-O intuíto do projeto foi criar funções para mostrar, criar, atualizar e deletar dados do banco de dados
+Implementação de crud com Node js
 
 ## Libs instaladas
 
