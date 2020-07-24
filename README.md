@@ -1,4 +1,4 @@
-# Crud-API-MongoDB
+# Crud-API-Mongo
 
 ## Introdução
 Implementação de crud com Node js
